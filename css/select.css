@@ -5,10 +5,10 @@
   
   .dd-button {
     display: inline-block;
-    border: 1px solid gray;
+    /* border: 1px solid gray; */
     border-radius: 4px;
     padding: 5px 30px 5px 20px;
-    background-color: #ffffff;
+    background-color: #810081;
     cursor: pointer;
     white-space: nowrap;
   }
@@ -27,7 +27,7 @@
   }
   
   .dd-button:hover {
-    background-color: #eeeeee;
+    background-color: #810081;
   }
   
   
