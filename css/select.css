@@ -92,7 +92,7 @@
     top: 6em;
     position: relative;
     box-sizing: border-box;
-    animation: marquee 15s linear infinite;
+    animation: marquee 10s linear infinite;
 }
 
 .marquee:hover {
