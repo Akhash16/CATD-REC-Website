@@ -7,8 +7,7 @@
     display: inline-block;
     /* border: 1px solid gray; */
     border-radius: 4px;
-    padding: 5px 30px 5px 20px;
-    background-color: #810081;
+    padding: 8px 30px 5px 20px;
     cursor: pointer;
     white-space: nowrap;
   }
@@ -27,7 +26,8 @@
   }
   
   .dd-button:hover {
-    background-color: #810081;
+    /* background-color: #810081; */
+    color:#ffc800 !important
   }
   
   
