@@ -11376,7 +11376,7 @@ p {
   }
   #mainNav.navbar-shrink {
     padding-top: 0rem;
-    padding-bottom: 0rem;
+    padding-bottom: 6px;
     background-color: #212529;
   }
   #mainNav.navbar-shrink .navbar-brand {

@@ -109,8 +109,9 @@
 
 /* Make it look pretty */
 .microsoft .marquee {
-	margin: 0;
-    padding: 0 1em;
+	margin: 0px 120px 0px ;
+    padding: 0px;
+    width: 500px;
     line-height: 1.5em;
     font: 1em 'Segoe UI', Tahoma, Helvetica, Sans-Serif;
 }
@@ -156,4 +157,8 @@
 .toggle {
 	display: block;
     margin: 2em auto;
+}
+
+.news{
+  margin: 0px 0px 0px 360px;
 }
