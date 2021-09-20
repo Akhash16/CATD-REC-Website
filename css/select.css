@@ -23,7 +23,7 @@
     height: 0; 
     border-left: 5px solid transparent;
     border-right: 5px solid transparent;
-    border-top: 5px solid black;
+    border-top: 5px solid rgb(255, 255, 255);
   }
   
   .dd-button:hover {
@@ -81,13 +81,16 @@
 
   .marquee-container {
     /* text-align: center; */
-    width: 80em;
-    height: 8em;
-    margin: 1em auto;
+    width: 22rem;
+    height: 18rem;
+    margin: 2rem auto;
     overflow: hidden;
     background: white;
     position: relative;
+    top:2rem;
     box-sizing: border-box;
+    display: inline-block;
+    
 }
 
 .marquee {
@@ -95,6 +98,7 @@
     position: relative;
     box-sizing: border-box;
     animation: marquee 10s linear infinite;
+    display: inline-block;
 }
 
 .marquee:hover {
@@ -109,7 +113,7 @@
 
 /* Make it look pretty */
 .microsoft .marquee {
-	margin: 0px 120px 0px ;
+	margin: 0px 0px 0px ;
     padding: 0px;
     width: 500px;
     line-height: 1.5em;
@@ -160,5 +164,17 @@
 }
 
 .news{
-  margin: 0px 0px 0px 360px;
+  display:flexbox;
+  position: relative;
+  left:9rem;
+  
+ 
+  
+}
+
+.vertical-marquee{
+  
+  position:absolute;
+  top:55rem;
+  left: 88rem;
 }
