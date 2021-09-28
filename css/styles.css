@@ -11398,8 +11398,9 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  /* background-image: url("../assets/img/header-bg.jpg"); */
   background-color: rgb(129,0,129);
+  background-image: url("https://images.unsplash.com/photo-1423666639041-f56000c27a9a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1474&q=80");
+  
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
