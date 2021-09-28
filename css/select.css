@@ -81,13 +81,13 @@
 
   .marquee-container {
     /* text-align: center; */
-    width: 22rem;
-    height: 18rem;
-    margin: 2rem auto;
+    width: 20rem;
+    height: 14rem;
+    margin: 1rem auto;
     overflow: hidden;
     background: white;
     position: relative;
-    top:2rem;
+    top:0rem;
     box-sizing: border-box;
     display: inline-block;
     
@@ -115,7 +115,7 @@
 .microsoft .marquee {
 	margin: 0px 0px 0px ;
     padding: 0px;
-    width: 500px;
+    width: 18rem;
     line-height: 1.5em;
     font: 1em 'Segoe UI', Tahoma, Helvetica, Sans-Serif;
 }
